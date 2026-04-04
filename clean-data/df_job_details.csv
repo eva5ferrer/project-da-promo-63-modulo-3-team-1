@@ -1,0 +1,1471 @@
+department,job_role,job_level,business_travel,over_time
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Non_Travel,True
+Sales,Manager,4,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Non_Travel,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Manager,5,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Representative,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Sales Executive,2,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,3,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Non_Travel,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Director,3,Travel_Frequently,True
+Sales,Sales Executive,3,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Research & Development,Research Director,5,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Research Scientist,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Human Resources,Human Resources,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Scientist,2,Non_Travel,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,4,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Sales Executive,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Non_Travel,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Non_Travel,False
+Human Resources,Manager,5,Non_Travel,False
+Research & Development,Research Director,5,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Frequently,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,True
+Human Resources,Manager,4,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Manager,3,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Manager,4,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Director,5,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,True
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Human Resources,Human Resources,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Frequently,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Representative,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Non_Travel,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Non_Travel,True
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Healthcare Representative,4,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Manager,4,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Non_Travel,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Non_Travel,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,2,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Non_Travel,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Manager,3,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,3,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Frequently,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Sales,Manager,5,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Sales,Manager,4,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Manager,5,Non_Travel,True
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Sales,Manager,4,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Non_Travel,False
+Research & Development,Healthcare Representative,4,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,True
+Research & Development,Manager,3,Non_Travel,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,3,Non_Travel,True
+Research & Development,Manager,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Frequently,True
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Sales,Sales Executive,4,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Sales,Manager,4,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Non_Travel,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Human Resources,Human Resources,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,3,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manager,3,Travel_Frequently,False
+Research & Development,Manager,4,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Healthcare Representative,4,Travel_Rarely,True
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Frequently,False
+Research & Development,Manager,5,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Sales,Sales Executive,2,Non_Travel,True
+Research & Development,Research Scientist,2,Travel_Frequently,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Sales,Sales Representative,2,Travel_Frequently,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,False
+Human Resources,Human Resources,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Manager,3,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Sales,Sales Executive,2,Non_Travel,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,True
+Sales,Sales Executive,2,Non_Travel,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Representative,1,Non_Travel,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Non_Travel,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Sales Executive,2,Non_Travel,True
+Research & Development,Manager,4,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,2,Non_Travel,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Frequently,True
+Sales,Sales Executive,4,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Sales,Manager,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Sales,Sales Executive,3,Non_Travel,False
+Sales,Manager,4,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Manager,3,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Travel_Frequently,False
+Human Resources,Human Resources,3,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,3,Non_Travel,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Manager,4,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Frequently,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Sales,Manager,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,True
+Sales,Sales Executive,3,Non_Travel,False
+Research & Development,Healthcare Representative,2,Non_Travel,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Frequently,False
+Sales,Manager,4,Travel_Rarely,False
+Sales,Sales Executive,3,Non_Travel,False
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Research & Development,Sales Executive,2,Non_Travel,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Human Resources,Manager,5,Travel_Frequently,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Sales,Sales Representative,1,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,True
+Research & Development,Manager,4,Travel_Rarely,False
+Human Resources,Human Resources,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Human Resources,Human Resources,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Human Resources,Manager,5,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Frequently,False
+Human Resources,Manager,5,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Director,3,Non_Travel,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Sales,Sales Executive,4,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Human Resources,Human Resources,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,4,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Sales,Manager,4,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Representative,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,True
+Sales,Sales Executive,3,Non_Travel,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Director,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Research Scientist,1,Non_Travel,False
+Sales,Manager,4,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,4,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Human Resources,Human Resources,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,True
+Sales,Sales Executive,4,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,3,Non_Travel,True
+Research & Development,Manager,4,Non_Travel,False
+Human Resources,Human Resources,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Non_Travel,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Manager,4,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Executive,4,Non_Travel,True
+Research & Development,Manufacturing Director,2,Travel_Frequently,True
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Research Scientist,1,Non_Travel,True
+Sales,Manager,4,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,True
+Research & Development,Research Director,5,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Non_Travel,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,4,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,True
+Research & Development,Research Director,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,4,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Manager,5,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,4,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,True
+Research & Development,Research Director,5,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Non_Travel,False
+Sales,Manager,5,Travel_Rarely,False
+Sales,Sales Executive,4,Travel_Rarely,True
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Frequently,True
+Sales,Sales Representative,1,Non_Travel,False
+Sales,Manager,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Manager,3,Travel_Rarely,True
+Human Resources,Human Resources,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Sales,Sales Representative,1,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Research Director,5,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Manager,4,Non_Travel,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Non_Travel,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Research & Development,Manufacturing Director,3,Travel_Frequently,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Human Resources,Human Resources,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Research Scientist,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manager,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Manager,4,Non_Travel,False
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Sales,Manager,4,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Frequently,False
+Research & Development,Healthcare Representative,4,Travel_Frequently,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,2,Non_Travel,False
+Research & Development,Manufacturing Director,2,Non_Travel,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Sales,Sales Executive,4,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Frequently,False
+Sales,Sales Executive,4,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Frequently,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Sales,Manager,4,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Manager,4,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Human Resources,Human Resources,2,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Research Scientist,2,Travel_Frequently,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Director,3,Travel_Frequently,True
+Sales,Sales Executive,3,Non_Travel,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Non_Travel,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Manager,5,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Manager,5,Travel_Rarely,True
+Research & Development,Healthcare Representative,4,Non_Travel,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Manager,5,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Manager,5,Travel_Frequently,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Research & Development,Manager,5,Travel_Rarely,False
+Human Resources,Human Resources,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Non_Travel,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Frequently,False
+Research & Development,Manager,4,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Non_Travel,False
+Research & Development,Research Director,4,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Manager,3,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Sales,Sales Executive,3,Non_Travel,True
+Sales,Sales Executive,2,Non_Travel,False
+Sales,Sales Representative,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manager,4,Non_Travel,True
+Research & Development,Manager,5,Travel_Rarely,False
+Human Resources,Manager,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,2,Travel_Frequently,True
+Human Resources,Manager,4,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Sales,Sales Executive,4,Travel_Rarely,True
+Research & Development,Manufacturing Director,4,Travel_Rarely,True
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,4,Travel_Frequently,True
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Human Resources,Manager,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Human Resources,Human Resources,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,True
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,True
+Research & Development,Research Director,4,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,2,Non_Travel,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,True
+Research & Development,Manufacturing Director,3,Travel_Frequently,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,True
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Research Director,3,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Frequently,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Sales,Sales Representative,1,Non_Travel,False
+Research & Development,Manufacturing Director,3,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Research & Development,Manager,3,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Sales,Manager,4,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Research Director,4,Travel_Frequently,True
+Sales,Sales Representative,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,True
+Human Resources,Manager,4,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Non_Travel,True
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Human Resources,Human Resources,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Manager,5,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Sales,Manager,5,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,True
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Manager,4,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Non_Travel,True
+Research & Development,Healthcare Representative,4,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,True
+Sales,Sales Executive,2,Non_Travel,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,True
+Human Resources,Manager,5,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Non_Travel,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Human Resources,Human Resources,2,Travel_Rarely,True
+Research & Development,Manager,4,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,4,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Non_Travel,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,True
+Research & Development,Research Scientist,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Manager,4,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Representative,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,3,Non_Travel,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Sales,Sales Executive,4,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Human Resources,Human Resources,2,Non_Travel,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,2,Non_Travel,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Manager,5,Travel_Rarely,False
+Human Resources,Human Resources,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Human Resources,Human Resources,1,Travel_Frequently,False
+Human Resources,Human Resources,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Research Scientist,2,Non_Travel,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,True
+Research & Development,Manufacturing Director,4,Non_Travel,True
+Human Resources,Human Resources,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manager,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Human Resources,Human Resources,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Non_Travel,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Sales Executive,3,Travel_Rarely,True
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Manager,4,Non_Travel,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Frequently,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Director,4,Travel_Frequently,True
+Research & Development,Research Scientist,1,Non_Travel,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,True
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,True
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,3,Travel_Rarely,False
+Human Resources,Human Resources,1,Non_Travel,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,4,Travel_Rarely,False
+Sales,Sales Representative,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Frequently,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Human Resources,Human Resources,2,Travel_Frequently,False
+Research & Development,Manager,4,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manager,4,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Non_Travel,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,True
+Sales,Sales Representative,1,Travel_Frequently,False
+Sales,Sales Executive,2,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Frequently,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Research & Development,Research Scientist,2,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Frequently,True
+Sales,Manager,4,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,5,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Human Resources,Human Resources,1,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Non_Travel,False
+Research & Development,Research Scientist,1,Non_Travel,True
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Non_Travel,False
+Research & Development,Research Scientist,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,True
+Sales,Sales Executive,3,Travel_Rarely,True
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Frequently,True
+Human Resources,Manager,5,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Sales,Sales Executive,4,Travel_Rarely,False
+Research & Development,Research Scientist,2,Non_Travel,False
+Research & Development,Research Director,3,Non_Travel,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Research & Development,Healthcare Representative,2,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Human Resources,Human Resources,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Research Scientist,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Director,3,Non_Travel,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Rarely,True
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Research Scientist,2,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Research Director,3,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,True
+Sales,Sales Representative,1,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Sales,Sales Representative,1,Travel_Rarely,True
+Research & Development,Manager,5,Non_Travel,False
+Sales,Sales Representative,1,Travel_Frequently,False
+Sales,Sales Executive,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Frequently,False
+Research & Development,Healthcare Representative,2,Non_Travel,False
+Research & Development,Research Scientist,1,Travel_Rarely,True
+Research & Development,Manager,5,Travel_Rarely,False
+Research & Development,Laboratory Technician,1,Travel_Rarely,False
+Research & Development,Manufacturing Director,4,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Non_Travel,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Human Resources,Human Resources,3,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Frequently,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Sales,Sales Executive,2,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Healthcare Representative,2,Travel_Frequently,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,True
+Research & Development,Research Scientist,1,Travel_Rarely,False
+Research & Development,Sales Executive,3,Travel_Rarely,True
+Sales,Sales Executive,4,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,False
+Sales,Sales Representative,1,Travel_Rarely,False
+Research & Development,Laboratory Technician,2,Travel_Frequently,False
+Research & Development,Healthcare Representative,3,Travel_Rarely,False
+Research & Development,Manufacturing Director,2,Travel_Rarely,True
+Sales,Sales Executive,2,Travel_Frequently,False
+Research & Development,Laboratory Technician,2,Travel_Rarely,False
