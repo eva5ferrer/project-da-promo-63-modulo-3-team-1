@@ -111,7 +111,7 @@ def imputar_media_sklearn(df, columnas):
     return df
 
 
- def porcentaje_nulos_cat(df):
+def porcentaje_nulos_cat(df):
 
     nulos_cat = (df.select_dtypes(include="object").isnull().sum() / df.shape[0] * 100).sort_values(ascending=False)
 

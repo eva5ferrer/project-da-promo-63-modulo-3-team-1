@@ -1,0 +1,14 @@
+# Entorno virtual
+ETL/ETL_hr/pyvenv.cfg
+ETL/ETL_hr/Lib/
+ETL/ETL_hr/Scripts/
+ETL/ETL_hr/Include/
+ETL/ETL_hr/share/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos
+files/
