@@ -1,22 +1,35 @@
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import warnings
+warnings.filterwarnings("ignore")
+from sklearn.impute import SimpleImputer 
+from sklearn.experimental import enable_iterative_imputer 
+from sklearn.impute import IterativeImputer 
+from sklearn.impute import KNNImputer 
+pd.set_option("display.max_columns", None)
+
 def exploracion_inicial(df,name="dataframe"):
     print(f"El dataframe '{name}' tiene {df.shape[0]} filas y {df.shape[1]} columnas.")
-    display(df.head(2))
+    print(df.head(2))
     print("="*150)
-    display(df.tail(2))
+    print(df.tail(2))
     print("="*150)
-    display(df.sample(2))
+    print(df.sample(2))
     print("="*150)
     print(f"Listamos abajo el conteo de no-nulos junto con el tipo de dato:")
     print("="*150)
     print(df.info())
     print("="*150)
-
+    return df
 
 def descriptive_analysis(df):
     print("NUMÉRICAS")
-    display(df.describe(include="number").T)
+    print(df.describe(include="number").T)
     print("CATEGÓRICAS")
-    display(df.describe(include="object").T)
+    print(df.describe(include="object").T)
+    return df
 
 def estandarizar_nombre(nombre):
     resultado = ""
@@ -87,7 +100,7 @@ def imputar_mediana(df, columna):
 
     df[columna] = valores_imputados
 
-    return df[columna].isnull().sum()
+    return df
 
 def imputar_media_sklearn(df, columnas):
     # df = df.copy()
@@ -130,14 +143,17 @@ def imputacion_cat_moda(df, columns):
         moda = df[col].mode()[0]
         df[col] = df[col].fillna(moda)
         print(f"El numero total de nulos en la columna {col} es {df[col].isnull().sum()}")
+    return df  
 
 
 def imputacion_cat_desconocido(df, columns):
     for col in columns:
         df[col] = df[col].fillna("Unknown")
         print(f"El numero total de nulos en la columna {col} es {df[col].isnull().sum()}")
+        return df
 
 def imputacion_overtime_moda(df, column):
     moda = df[column].mode()[0]
     df[column] = df[column].fillna(moda)
     print(f"EL numero total de nulos en la columna {column} es {df[column].isnull().sum()}")
+    return df

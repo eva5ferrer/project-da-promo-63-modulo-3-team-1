@@ -1,0 +1,7 @@
+# Entorno virtual
+ETL/ETL_hr/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
