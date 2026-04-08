@@ -150,10 +150,14 @@ def imputacion_cat_desconocido(df, columns):
     for col in columns:
         df[col] = df[col].fillna("Unknown")
         print(f"El numero total de nulos en la columna {col} es {df[col].isnull().sum()}")
-        return df
+    return df
 
 def imputacion_overtime_moda(df, column):
     moda = df[column].mode()[0]
     df[column] = df[column].fillna(moda)
     print(f"EL numero total de nulos en la columna {column} es {df[column].isnull().sum()}")
+    return df
+
+def borrar_columnas(df, columns):
+    df.drop(columns, inplace=True, errors="ignore", axis=1)
     return df
