@@ -27,6 +27,9 @@ df_hr = lf.imputacion_cat_moda(df_hr, ["business_travel", "marital_status", "dep
 df_hr = lf.imputacion_cat_desconocido(df_hr, ["education_field"])
 df_hr = lf.imputacion_overtime_moda(df_hr, "over_time")
 
+# Borramos columnas que no necesitamos
+df_hr = lf.borrar_columnas(df_hr, ["over18", "employee_count", "standard_hours", "hourly_rate", "daily_rate", "stock_option_level"])
+
 # Verificamos que no quedan nulos
 print(df_hr.isnull().sum()[df_hr.isnull().sum() > 0])
 

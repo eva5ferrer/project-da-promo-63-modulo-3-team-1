@@ -10,6 +10,7 @@ def exploracion_inicial(df,name="dataframe"):
     print("="*150)
     print(df.info())
     print("="*150)
+    return df
 
 
 def descriptive_analysis(df):
@@ -17,6 +18,7 @@ def descriptive_analysis(df):
     display(df.describe(include="number").T)
     print("CATEGÓRICAS")
     display(df.describe(include="object").T)
+    return df
 
 def estandarizar_nombre(nombre):
     resultado = ""
@@ -87,7 +89,7 @@ def imputar_mediana(df, columna):
 
     df[columna] = valores_imputados
 
-    return df[columna].isnull().sum()
+    return df
 
 def imputar_media_sklearn(df, columnas):
     # df = df.copy()
@@ -130,14 +132,21 @@ def imputacion_cat_moda(df, columns):
         moda = df[col].mode()[0]
         df[col] = df[col].fillna(moda)
         print(f"El numero total de nulos en la columna {col} es {df[col].isnull().sum()}")
+    return df
 
 
 def imputacion_cat_desconocido(df, columns):
     for col in columns:
         df[col] = df[col].fillna("Unknown")
         print(f"El numero total de nulos en la columna {col} es {df[col].isnull().sum()}")
+    return df
 
 def imputacion_overtime_moda(df, column):
     moda = df[column].mode()[0]
     df[column] = df[column].fillna(moda)
     print(f"EL numero total de nulos en la columna {column} es {df[column].isnull().sum()}")
+    return df
+    
+def borrar_columnas(df, columns):
+    df.drop(columns, inplace=True, errors="ignore", axis=1)
+    return df
