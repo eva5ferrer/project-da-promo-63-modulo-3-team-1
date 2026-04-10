@@ -24,7 +24,6 @@ Limpieza y preparación del dataset para el análisis:
 
 ### Fase 3: Visualización de Datos 📊
 Exploración visual para encontrar patrones de fuga:
-- **Insights clave**: Se identificó que la formación actúa como un "escudo" contra la rotación; los empleados sin formación en el último año tienen una tasa de fuga cercana al 30%.
 - Hay relación entre satisfacción laboral, salario, horas extra y la decisión de abandonar la empresa.
 - Comparativa entre perfiles que permanecen vs. perfiles que se van.
 
